@@ -31,7 +31,7 @@
 						<muleVersion>4.2.2</muleVersion>
 						<username>Hailay1</username>
 						<password>Mule2020</password>
-						<applicationName>test4445</applicationName>
+						<applicationName>properties-demo</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
